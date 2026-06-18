@@ -8,7 +8,7 @@
 ![Built By](https://img.shields.io/badge/Built%20By-Motbots-black?style=for-the-badge)
 ![License](https://img.shields.io/github/license/YOUR-USERNAME/Project-Liberty-Light?style=for-the-badge)
 
-<img width="1920" height="1080" padding-bottom="30" alt="Project-Liberty-Light-Series_GitHub" src="https://github.com/user-attachments/assets/ce83fd74-f933-49d3-9480-a5c7826693ea" />
+<img width="1920" height="1080" alt="Project-Liberty-Light-Series_GitHub" src="https://github.com/user-attachments/assets/ce83fd74-f933-49d3-9480-a5c7826693ea" />
 
 **Project Liberty Light** is a patriotic electronics and embedded systems project created to celebrate the upcoming **250th birthday of the United States of America (July 4th, 2026)**.
 
