@@ -8,6 +8,8 @@
 ![Built By](https://img.shields.io/badge/Built%20By-Motbots-black?style=for-the-badge)
 ![License](https://img.shields.io/github/license/YOUR-USERNAME/Project-Liberty-Light?style=for-the-badge)
 
+<img width="1920" height="1080" alt="Project-Liberty-Light-Series_GitHub" src="https://github.com/user-attachments/assets/ce83fd74-f933-49d3-9480-a5c7826693ea" />
+
 **Project Liberty Light** is a patriotic electronics and embedded systems project created to celebrate the upcoming **250th birthday of the United States of America (July 4th, 2026)**.
 
 Built around dual WS2812B LED matrix panels and powered by an Arduino Uno, this project transforms programmable LEDs into a dynamic illuminated American flag display featuring interactive controls, animations, and future audio-reactive functionality.
@@ -32,6 +34,8 @@ While originally designed for America’s 250th celebration, Project Liberty Lig
 - Workshops and maker fairs
 - Educational demonstrations
 - Interactive LED art projects
+
+📖 <a rel="nofollow" target=_blank href="https://motbots.com/project-liberty-light-series/">Project Liberty Light Series</a>
 
 ## 📸 Project Overview
 
